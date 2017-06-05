@@ -8,6 +8,10 @@ this dev branch
 
 check stash
 
+<<<<<<< HEAD
 pull master
 
+=======
+pull dev 
+>>>>>>> dev
 
