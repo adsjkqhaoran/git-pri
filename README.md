@@ -7,3 +7,6 @@ this is master
 this dev branch
 
 check stash
+
+pull
+
