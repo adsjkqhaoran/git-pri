@@ -1,17 +1,4 @@
-##hellow world!
-jack!
-now first change
 
-this is master
+= =dev
 
-this dev branch
-
-check stash
-
-<<<<<<< HEAD
-pull master
-
-=======
-pull dev 
->>>>>>> dev
 
