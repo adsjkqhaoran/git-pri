@@ -8,5 +8,5 @@ this dev branch
 
 check stash
 
-pull
+pull dev 
 
